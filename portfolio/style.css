@@ -1,0 +1,28 @@
+*{
+    border:0;
+    padding: 0;
+    margin: 0;
+}
+#div1{
+    height: 640px;
+    width: 100%;
+}
+#div1 h3{
+    display: inline;
+    font-size: 22px;
+    color:white;
+    padding-top: 5%;
+    padding-left: 5%;
+    width: 30%;
+}
+#div1 ul{
+    display: inline-block;
+}
+#div1 ul li{
+    display: inline;
+    padding-left: 15px;
+    color: white;
+    font-size: 42px;
+    width:70%;
+    text-align: right;
+}
