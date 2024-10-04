@@ -6,6 +6,7 @@
 #div1{
     height: 640px;
     width: 100%;
+    padding-top: 2%;
 }
 #div1 h3{
     display: inline;
@@ -25,4 +26,45 @@
     font-size: 22px;
     width:70%;
     text-align: right;
+}
+.p1{
+    color:white;
+    font-size: 20px;
+    padding-top: 10%;
+    padding-left:5% ;
+}
+#n1{
+    padding-left: 55%;
+}
+.p2{
+    color:white;
+    font-size: 80px;
+    padding-top: 1%;
+
+    padding-left:5% ;
+}
+.p3{
+    color:white;
+    font-size: 15px;
+    padding-left:5% ;
+    opacity: 0.4;
+}
+.p4{
+margin-top: 3%;
+border-radius: 50px;
+    font-size: 25px;
+    margin-left:5% ;
+    padding: 0.3%;
+    background: rgb(214, 23, 55);
+    color:white;
+}
+.p5{
+    padding: 0.3%;
+    font-size: 25px;
+    margin-top: 3%;
+    margin-left: 1%;
+    border-radius: 50px;
+    background-color: white;
+
+
 }
