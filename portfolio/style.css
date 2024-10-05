@@ -68,3 +68,20 @@ border-radius: 50px;
 
 
 }
+#div1{
+    height: 640px;
+    width: 100%;
+    padding-top: 2%;
+    background-color: white;
+}
+.p6{
+    color:red;
+    margin-left: 4%;
+    font-size: 20px;
+    margin-top: 2%;
+}
+.p7{
+    font-size: 40px;
+    margin-left: 4%;
+    padding-top: 1%;
+}
